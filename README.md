@@ -1,5 +1,6 @@
 |  版本  |     日期     |                           下载地址                           |
 | :----: | :----------: | :----------------------------------------------------------: |
+| 8.0.44 | (2023-12-04) | https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c36_arm64.apk |
 | 8.0.43 | (2023-11-06) | https://dldir1.qq.com/weixin/android/weixin8043android2480_0x28002b38_arm64.apk |
 | 8.0.38 | (2023-06-21) | https://dldir1.qq.com/weixin/android/weixin8038android2400_arm64.apk |
 | 8.0.37 | (2023-05-25) | https://dldir1.qq.com/weixin/android/weixin8037android2380_arm64.apk |
