@@ -1,6 +1,6 @@
 |  版本  |     日期     |                           下载地址                           |
 | :----: | :----------: | :----------------------------------------------------------: |
-| 8.0.48 | (2024-03-18) | https://wechatversion.yangpenghe.eu.org/weixin8048android2580_0x28003033_arm64.apk |
+| 8.0.48 | (2024-03-18) | [[https://wechatversion.yangpenghe.eu.org/weixin8048android2580_0x28003033_arm64.apk](https://wechatversion.yangpenghe.eu.org/weixin8048android2580_0x28003033_arm64.apk) |
 | 8.0.38 | (2023-06-21) | https://dldir1.qq.com/weixin/android/weixin8038android2400_arm64.apk |
 | 8.0.37 | (2023-05-25) | https://dldir1.qq.com/weixin/android/weixin8037android2380_arm64.apk |
 | 8.0.35 | (2023-04-20) | https://dldir1.qq.com/weixin/android/weixin8035android2360_arm64.apk |
